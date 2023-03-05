@@ -10,7 +10,7 @@ Class comments
 
 # Hey fellow coders, I am Mohan! 😀
 
-## Certified Project Management Professional (PMP®) with more than 4 years of experience focused on developing new business ideas and leading high-impact projects. Also carrying almost a decade of experience while managing production of web ads, websites takeovers and development of software by applying Agile Scrum Methodology. I am part time Artist, Developer and an avid learner too.
+## Certified Project Management Professional (PMP®) with more than 4 years of experience focused on developing new business ideas and leading high-impact projects. Carrying almost a decade of experience while managing production of web ads, websites takeovers and development of software by applying Agile Scrum Methodology.
 
 <div>
     <ul>
@@ -28,32 +28,23 @@ Class comments
         </li>
     </ul>
 </div>
-
 ## 🤝🏻Connect with me:
-
 <a href="https://www.linkedin.com/in/mohan-gupta-pmp%C2%AE-b70980a/">
 <img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>&nbsp;&nbsp;
 <a href="https://www.instagram.com/mohan.gupta.5095/">
 <img height="30" src="https://img.shields.io/badge/instagram-C13584.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>&nbsp;&nbsp;
-
 <br>
-
 ## 👩🏻‍💻 Technologies Worked with:
-
 <p align="left">
   <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html5" width="40" height="40" title="HTML5" />
   <img src="https://www.pngitem.com/pimgs/m/198-1985012_transparent-css3-logo-png-css-logo-transparent-background.png" alt="CSS" width="40" height="40" title="CSS3" />
   <img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" alt="bootstrap" width="40" height="40" title="Bootstrap"/>
   <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="javascript" width="40" height="40" title="Javascript" />
   <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" width="40" height="40" title="Git"/>   
-
 </p>
-
 <br>
-
 ## 📊 My Stats: 
-
 <a href="https://github.com/mohan-projects">
 <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohan-projects&&hide_title=false&hide_border=true&layout=compact&langs_count=8&exclude_repo=comp426&text_color=fff7ff&icon_color=ffffff&bg_color=151515" alt="Mohan's Top Languages" />
 <a href="https://github.com/mohan-projects">
@@ -69,5 +60,3 @@ Class comments
 mohan-projects/mohan-projects is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-README.md
-Displaying README.md.
