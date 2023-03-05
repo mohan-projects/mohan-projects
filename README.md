@@ -57,23 +57,15 @@ Class comments
 
 <a href="https://github.com/mohan-projects">
 <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohan-projects&&hide_title=false&hide_border=true&layout=compact&langs_count=8&exclude_repo=comp426&text_color=fff7ff&icon_color=ffffff&bg_color=151515" alt="Mohan's Top Languages" />
-
 <a href="https://github.com/mohan-projects">
 <img height="150" src="https://github-readme-stats.vercel.app/api?username=mohan-projects&hide_title=false&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=fff7ff&icon_color=ffffff&bg_color=151515" alt="Mohan's Stats" />
 </a>
-
 <a href="https://github.com/mohan-projects">
     <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mohan's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=mohan-projects&theme=neon-dark&hide_border=true"/>
 </a>
-    
-<p align="center">
+ <p align="center">
   <img src="https://activity-graph.herokuapp.com/graph?username=mohan-projects&theme=react" width = "97.5%">
 </p>
-    
- 
-
-
-
 <!---
 mohan-projects/mohan-projects is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
